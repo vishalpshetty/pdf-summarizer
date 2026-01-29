@@ -1,0 +1,14 @@
+# FastAPI and server
+fastapi==0.109.0
+uvicorn[standard]==0.27.0
+python-multipart==0.0.6
+
+# PDF processing
+pypdf==3.17.4
+
+# AI and monitoring
+anthropic==0.39.0
+langsmith==0.0.87
+
+# Utilities
+python-dotenv==1.0.0
