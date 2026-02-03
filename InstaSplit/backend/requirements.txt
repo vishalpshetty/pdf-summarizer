@@ -1,0 +1,28 @@
+# FastAPI and server
+fastapi==0.115.0
+uvicorn[standard]==0.32.0
+python-multipart==0.0.12
+
+# Pydantic for data validation
+pydantic==2.9.0
+
+# Image processing
+Pillow==11.0.0
+pillow-heif==0.21.0
+
+# OCR
+paddlepaddle==3.2.2
+paddleocr==2.8.1
+pytesseract==0.3.10
+
+# LLM and LangChain
+langchain==0.3.13
+langchain-anthropic==0.3.3
+anthropic==0.42.0
+
+# Testing
+pytest==8.3.0
+pytest-asyncio==0.24.0
+
+# Utilities
+python-dotenv==1.0.1

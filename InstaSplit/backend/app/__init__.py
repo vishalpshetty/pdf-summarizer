@@ -1,0 +1,3 @@
+"""
+InstaSplit Backend Application
+"""
